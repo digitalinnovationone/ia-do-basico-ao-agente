@@ -1,0 +1,76 @@
+# 🚀 Potencializando Seus Estudos e Carreira com IA: De Chatbots a Agentes
+
+Neste curso, vamos explorar na prática como usar Inteligência Artificial para acelerar seus estudos e carreira em tecnologia. A jornada vai do básico ao avançado, passando por três níveis de interação com IA, cada um com mais autonomia que o anterior:
+
+1. **Chatbots**: como consultar um especialista. Você pergunta, ele responde.
+2. **Copilotos**: como ter um colega de trabalho ao lado. Ele vê o que você está fazendo e sugere melhorias.
+3. **Agentes**: como delegar uma tarefa a alguém de confiança. Você explica o que precisa e ele resolve.
+
+> [!TIP]
+> Você não precisa ter experiência com IA pra acompanhar. Cada aula parte do zero no seu tema.
+
+---
+
+## Introdução
+
+Existem dezenas de ferramentas de IA disponíveis hoje, muitas delas gratuitas. O problema não é acesso, é saber *qual usar* e *quando usar*. Este curso existe pra resolver isso.
+
+Em vez de focar em uma única ferramenta, vamos explorar a pluralidade que existe hoje. A ideia é que você termine o curso sabendo escolher a IA certa pra cada situação dos seus estudos e carreira.
+
+---
+
+## Chatbots
+
+### O conceito
+
+Pense no chatbot como um consultor disponível 24 horas. Você descreve sua dúvida e ele responde com base no conhecimento que tem. Não existe mágica: a qualidade da resposta depende diretamente da qualidade da sua pergunta.
+
+- O que é um LLM (modelo de linguagem) e por que isso importa pra você
+- A diferença entre os principais chatbots (ChatGPT, Gemini, Claude, DeepSeek, entre outros)
+- Como a forma que você pergunta muda completamente a resposta
+
+### Na prática
+
+Vamos simular uma situação real: um aluno da DIO que precisa montar um plano de estudos pra uma nova tecnologia. Usamos diferentes chatbots pra mesma pergunta, comparamos as respostas e exploramos como refinar suas perguntas pra obter resultados melhores.
+
+**Ferramentas sugeridas:** [ChatGPT](https://chat.openai.com), [Gemini](https://gemini.google.com), [Claude](https://claude.ai), [DeepSeek](https://chat.deepseek.com)
+
+---
+
+## Copilotos
+
+### O conceito
+
+Se o chatbot é um consultor que você procura quando tem uma dúvida, o copiloto é um colega de trabalho sentado ao seu lado. Ele enxerga o que você está fazendo (seu código, seu documento, sua planilha) e sugere melhorias em tempo real, sem que você precise parar e perguntar.
+
+- O que diferencia um copiloto de um chatbot na prática
+- Exemplos de copilotos em diferentes contextos (código, escrita, produtividade)
+- Como tirar o melhor proveito sem perder o controle do que está sendo produzido
+
+### Na prática
+
+Vamos resolver um Desafio de Código da DIO usando copilotos de programação. Desafios de Código são problemas objetivos e pontuais, exatamente o tipo de tarefa onde um copiloto brilha: ele vê o código que você está escrevendo, entende o contexto e sugere continuações, correções e melhorias em tempo real.
+
+Vamos comparar a experiência de resolver o mesmo desafio com e sem copiloto, mostrando onde ele realmente ajuda e onde você ainda precisa pensar por conta própria.
+
+**Ferramentas sugeridas:** [GitHub Copilot](https://github.com/features/copilot), [Gemini Code Assist](https://cloud.google.com/gemini/docs/codeassist/overview), [Cursor](https://cursor.com)
+
+---
+
+## Agentes
+
+### O conceito
+
+O consultor (chatbot) responde quando você pergunta. O colega (copiloto) sugere enquanto você trabalha. Já o agente é como delegar uma tarefa a alguém de confiança: você explica o que precisa, ele analisa a situação, decide como resolver e executa. Você acompanha o resultado, não o processo.
+
+- O que torna um agente diferente de um chatbot ou copiloto (autonomia)
+- Como agentes usam ferramentas pra acessar informações e executar tarefas
+- O ecossistema atual: OpenCode, OpenClaw, CrewAI e Ollama
+
+### Na prática
+
+Vamos usar o OpenCode conectado ao Ollama pra resolver um Desafio de Projeto da DIO. Diferente dos Desafios de Código (que são pontuais), Desafios de Projeto envolvem um repositório completo com estrutura, arquivos e contexto. É aí que um agente se destaca: ele entende o projeto inteiro e age de acordo com as suas instruções.
+
+Clonamos o repositório de referência do desafio, abrimos o OpenCode ali dentro, e descrevemos em português o que queremos. O agente lê o projeto, entende o que precisa ser feito e executa. O aprendizado acontece na leitura e compreensão do código gerado, não na digitação.
+
+**Ferramentas sugeridas:** [OpenCode](https://opencode.ai), [Ollama](https://ollama.com)
