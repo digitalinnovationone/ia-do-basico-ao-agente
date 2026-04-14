@@ -33,7 +33,7 @@ Pense no chatbot como um consultor disponível 24 horas. Você descreve sua dúv
 
 Vamos simular uma situação real: um aluno da DIO que precisa montar um plano de estudos pra uma nova tecnologia. Usamos diferentes chatbots pra mesma pergunta, comparamos as respostas e exploramos como refinar suas perguntas pra obter resultados melhores.
 
-**Ferramentas sugeridas:** [ChatGPT](https://chat.openai.com), [Gemini](https://gemini.google.com), [Claude](https://claude.ai), [DeepSeek](https://chat.deepseek.com)
+**Ferramentas sugeridas:** [ChatGPT](https://chat.openai.com), [Gemini](https://gemini.google.com), [Claude](https://claude.ai), [Microsoft Copilot](https://copilot.microsoft.com), [DeepSeek](https://chat.deepseek.com)
 
 ---
 
@@ -49,11 +49,11 @@ Se o chatbot é um consultor que você procura quando tem uma dúvida, o copilot
 
 ### Na prática
 
-Vamos resolver um Desafio de Código da DIO usando copilotos de programação. Desafios de Código são problemas objetivos e pontuais, exatamente o tipo de tarefa onde um copiloto brilha: ele vê o código que você está escrevendo, entende o contexto e sugere continuações, correções e melhorias em tempo real.
+Vamos resolver um Desafio de Código da DIO usando o VSCode com uma extensão de copiloto. Desafios de Código são problemas objetivos e pontuais, exatamente o tipo de tarefa onde um copiloto brilha: enquanto você digita, ele sugere continuações, correções e melhorias em tempo real, sem que você precise parar pra pedir ajuda.
 
 Vamos comparar a experiência de resolver o mesmo desafio com e sem copiloto, mostrando onde ele realmente ajuda e onde você ainda precisa pensar por conta própria.
 
-**Ferramentas sugeridas:** [GitHub Copilot](https://github.com/features/copilot), [Gemini Code Assist](https://cloud.google.com/gemini/docs/codeassist/overview), [Cursor](https://cursor.com)
+**Ferramentas sugeridas:** [VSCode](https://code.visualstudio.com) com [GitHub Copilot](https://github.com/features/copilot) ou [Codeium](https://codeium.com) (gratuito)
 
 ---
 
