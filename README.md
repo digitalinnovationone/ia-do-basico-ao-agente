@@ -27,9 +27,7 @@ Pense no chatbot como um consultor disponível 24 horas. Você descreve sua dúv
 
 ### Na prática
 
-Vamos começar a jornada conversando com um chatbot para descobrir uma área de tecnologia que combine com seu perfil.
-
-Use o prompt abaixo no ChatGPT (ou em qualquer outro chatbot da sua preferência):
+Vamos começar a jornada conversando com um chatbot para descobrir uma área de tecnologia que combine com seu perfil. Use o prompt abaixo no ChatGPT (ou em qualquer outro chatbot da sua preferência):
 
 ```
 Quero entrar na área de tecnologia e estou em transição de carreira.
@@ -89,8 +87,7 @@ Comece a preencher cada seção. Conforme você digita, o copiloto vai sugerindo
 Selecione um parágrafo e peça:
 
 ```
-Reescreva este trecho de forma mais clara e motivadora, como se eu fosse reler
-daqui a um mês para lembrar do meu plano.
+Reescreva este trecho de forma mais clara e motivadora (quero me manter engajado).
 ```
 
 Ao final, salve o documento. Você vai colar o conteúdo dele na próxima prática.
